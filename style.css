@@ -1,20 +1,19 @@
-#header {position: fixed;
+#header {position: center;
   width: 95%;
   margin-top: 10;
   height: 200px;
   background-color: NAVY;
   margin-bottom: 10;
+  text-align: center;
 }
 
-#name {float: center;
-  justified content: center;
+#name {justified-content: center;
   font size: 100PX;
   color: WHITE;
   font family: Palatino, Sans-serif, bold;
 }
 
-#info {float: center;
-  justified-content: center;
+#info {justified-content: center;
   font size: 50PX;
   color: white;
   font family: Palatino, sans-serif, bold;
