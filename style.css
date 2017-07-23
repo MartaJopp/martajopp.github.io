@@ -1,13 +1,12 @@
-
-h1 {color: BLUE;
-  font-size: 48px;
-  text-align: center;
+#header {position: fixed;
+  width: 95%;
+  margin-top: 10;
+  height: 50px;
+  background-color: grey;
+  margin-bottom: 10;
 }
 
-h5 {text-align: center;
-}
-
-h3 {text-align: center;
-}
+    
+  
 
 
