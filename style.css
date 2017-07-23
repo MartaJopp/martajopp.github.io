@@ -2,7 +2,7 @@
   width: 95%;
   margin-top: 10;
   height: 200px;
-  background-color: BLACK;
+  background-color: NAVY;
   margin-bottom: 10;
 }
 
@@ -28,7 +28,9 @@
   margin-bottom: 10;
 }
   
-  
+h1 {font size: 18PX;
+  color: NAVY;
+}
   
   
     
