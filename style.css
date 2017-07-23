@@ -8,6 +8,7 @@
 }
 
 #name {justified-content: center;
+  margin-top: 20;
   font-size: 40PX;
   color: WHITE;
   font-family: Palatino, Sans-serif, bold;
@@ -26,6 +27,9 @@
 }
   
 h4 {color: NAVY;
+}
+
+#image {position: center;
 }
   
   
