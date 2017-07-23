@@ -4,11 +4,12 @@
   height: 200px;
   background-color: NAVY;
   margin-bottom: 10;
-  text-align: middle;
+  text-align: center;
   font size: 50PX
 }
 
 #name {justified-content: center;
+  margin-top: 50
   font size: 100PX;
   color: WHITE;
   font family: Palatino, Sans-serif, bold;
@@ -28,7 +29,7 @@
   margin-bottom: 10;
 }
   
-h6 {font size: 20PX;
+h6 {font size: 50PX;
   color: NAVY;
 }
   
