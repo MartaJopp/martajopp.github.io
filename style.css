@@ -2,10 +2,25 @@
   width: 95%;
   margin-top: 10;
   height: 50px;
-  background-color: grey;
+  background-color: BLACK;
   margin-bottom: 10;
 }
 
+#name {float: center;
+  font size: 36PX;
+  color: WHITE;
+  font family: Palatino, Sans-serif;
+}
+
+#info {float: center;
+  font size: 16PX;
+  color: white;
+  font family: Palatino, sans-serif;
+}
+  
+  
+  
+  
     
   
 
